@@ -1,0 +1,44 @@
+h1, h2 {text-align:center;
+        font-family:Arial Narrow Bold;
+        font-style: italic;
+        background-color: white;
+        }
+
+.col-lg-3 {float:left;
+padding-left:20px;
+padding-bottom:20px;
+}
+.tabuleiro {
+    width: 560;
+    margin:auto;
+}
+
+
+body{
+    background-image: url("https://media.istockphoto.com/illustrations/concept-of-board-games-chess-fights-isolated-on-white-background-3d-illustration-id672343806");
+    background-size: cover;
+} 
+
+img {
+width:120px;
+height:169px;
+
+}
+
+.col-lg-3 {
+    width: 120px;
+    height: 169px;
+    
+}
+
+
+#reset {
+    padding: 15px 10px;
+    background-color: rgba(255, 0, 0, 0.884);
+    color: seashell;
+    margin-left: 550px;
+    margin-top: 50px;
+    display: none;
+
+
+}
